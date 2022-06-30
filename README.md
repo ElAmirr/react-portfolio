@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/ElAmirr/react-portfolio/blob/main/screenshots/logo.png"
        alt="Personal Portfolio logo"
-       width="500"
+       width="200"
   >
 </p>
 
@@ -24,9 +24,10 @@ Delicious is a reciep App using ReactJs framwork and The spoonacular Nutrition, 
 <p align="center">
   <img src="https://github.com/ElAmirr/react-portfolio/blob/main/screenshots/website.png"
        alt="Personal Portfolio logo"
-       width="500"
+       width="80%"
   >
 </p>
+
 ## Author :black_nib:
 
 - **ElOthmani ElAmir** - <[Portfolio Website](https://elamirr.github.io/)>
