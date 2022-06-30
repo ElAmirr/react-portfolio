@@ -14,8 +14,7 @@ npm run dev
 
 ## Description :house:
 
-Finally! An all-in-one solution for cooking at home.
-Delicious is a reciep App using ReactJs framwork and The spoonacular Nutrition, Recipe, and Food API.
+Your portfolio is your resume and your business card. So i desided to build a responsive personal development portfolio from scratch. I have been using React and Next JS with the recamanded best practice.
 
 ## Screen Shot :camera:
 
